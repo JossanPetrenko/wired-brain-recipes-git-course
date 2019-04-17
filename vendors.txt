@@ -1,0 +1,3 @@
+vendedor top com telefone
+novo vendedor com novo telefone
+mais um vendedor | com endereco | e telefone alterado
